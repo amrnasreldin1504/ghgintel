@@ -1,0 +1,10 @@
+├── main.py
+├── calculator.py
+├── scada_client.py
+├── report_parser.py
+├── dashboard
+│   └── ui.py
+├── sample_data
+│   ├── emission_factors.csv
+│   └── scada_data.json
+└── requirements.txt

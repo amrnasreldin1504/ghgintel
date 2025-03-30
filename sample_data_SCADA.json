@@ -1,0 +1,29 @@
+{
+  "timestamp": "2023-03-30T12:00:00Z",
+  "scope": {
+    "Scope1": {
+      "analyzer_data": {
+        "CO2_ppm": 1200,
+        "flow_rate": 150
+      },
+      "activity": 100,
+      "fuel": "Coal"
+    },
+    "Scope2": {
+      "analyzer_data": {
+        "CO2_ppm": null,
+        "flow_rate": null
+      },
+      "activity": 200,
+      "fuel": "NaturalGas"
+    },
+    "Scope3": {
+      "analyzer_data": {
+        "CO2_ppm": null,
+        "flow_rate": null
+      },
+      "activity": 300,
+      "fuel": "Limestone"
+    }
+  }
+}
